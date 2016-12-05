@@ -1,0 +1,10 @@
+b sds 1
+d x 1
+e sds 1
+a d 3
+c d 4
+a b 5
+b c 10
+a c 16
+b d 23
+e x 442

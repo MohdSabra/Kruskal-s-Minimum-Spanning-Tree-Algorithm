@@ -1,0 +1,8 @@
+  digraph graphname {
+b ->sds  [weight=1];
+d ->x  [weight=1];
+e ->sds  [weight=1];
+a ->d  [weight=3];
+c ->d  [weight=4];
+a ->b  [weight=5];
+}
